@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "ZygiskImGui"
+    magiskModuleId = "Zygisk-ImGui"
+    moduleName = "MagiskImGui"
+    moduleAuthor = "Noobbb"
+    moduleDescription = "ImGui Zygisk version."
+    moduleVersion = "v1.0.0"
+    moduleVersionCode = 1
+}
